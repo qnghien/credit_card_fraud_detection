@@ -1,4 +1,5 @@
 # Fraud Detection Model - IEEE-CIS Fraud Detection
+![Fraud Detection Image](img/credit_fraud.jpeg)
 
 ## Project Overview
 This project aims to build a robust fraud detection model for identifying high-risk credit card transactions. The dataset used for this project was collected from the **IEEE-CIS Fraud Detection Contest** on **Kaggle**, containing both transactional data and identity-related features. The objective was to predict fraudulent transactions using machine learning (ML) and deep learning (DL) techniques.
